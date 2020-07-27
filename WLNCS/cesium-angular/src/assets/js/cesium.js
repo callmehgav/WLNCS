@@ -1,10 +1,10 @@
 
 function createModel(viewer ) {
   viewer.entities.removeAll();
-  var url = "../assets/gltfModels/f16c.glb";
+  var url = "../assets/gltfModels/a10.glb";
   var position = Cesium.Cartesian3.fromDegrees(
-    -123.0744619,
-    44.0503706,
+    -84.065919,
+    39.774654,
     5000.0
   );
   var heading = Cesium.Math.toRadians(135);
@@ -15,7 +15,13 @@ function createModel(viewer ) {
     position,
     hpr
   );
+  addEntity(url,position,orientation,viewer);
 
+}
+
+function addEntity(url, position, orientation,viewer)
+{
+  
   var entity = viewer.entities.add({
     name: url,
     position: position,
@@ -28,5 +34,4 @@ function createModel(viewer ) {
   });
   viewer.trackedEntity = entity;
 }
-
 
