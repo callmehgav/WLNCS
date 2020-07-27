@@ -3,6 +3,7 @@
 A simple web application that demonstrates integration of [Cesium](https://cesiumjs.org/) with [Angular](https://angular.io/).
 
 ## Setup
+Navigate to the `cesium-angular` folder using `cd ./WLNCS/cesium-angular`
 
 Run `npm install -g @angular/cli` to install **Angular CLI**.
 
