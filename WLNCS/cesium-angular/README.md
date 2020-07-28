@@ -1,4 +1,4 @@
-# cesium-angular-example
+# cesium-angular
 
 A simple web application that demonstrates integration of [Cesium](https://cesiumjs.org/) with [Angular](https://angular.io/).
 
