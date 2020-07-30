@@ -1,6 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-
+import {WebSocketService} from './web-socket.service';
 
 import { AppComponent } from './app.component';
 import { CesiumDirective } from './cesium.directive';
@@ -12,9 +12,11 @@ import { CesiumDirective } from './cesium.directive';
     CesiumDirective
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
   ],
-  providers: [],
+  providers: [
+    WebSocketService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

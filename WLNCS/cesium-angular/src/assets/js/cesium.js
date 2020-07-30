@@ -1,7 +1,8 @@
 
 function createModel(viewer ) {
   viewer.entities.removeAll();
-  var url = "../assets/gltfModels/a10.glb";
+  //change the model to any in the glftModels folder
+  var url = "../assets/gltfModels/a10.glb"; 
   var position = Cesium.Cartesian3.fromDegrees(
     -84.065919,
     39.774654,
@@ -32,6 +33,7 @@ function addEntity(url, position, orientation,viewer)
       maximumScale: 128, //Controls the zoom out size of the craft
     },
   });
-  viewer.trackedEntity = entity;
+  //set the camera on the asset
+  viewer.trackedEntity = entity; 
 }
 
