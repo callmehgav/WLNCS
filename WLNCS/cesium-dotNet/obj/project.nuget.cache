@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "56UgugKD9wCNTo1kSy/fEnzG9yWe0UxBYbt20LTOBaLi2KIdZPMlbyDpyw6K//l5AXCZ6oiG98wsmmxvZO8VhQ==",
+  "dgSpecHash": "UeZllMwlHVCftme03QStnaIb/LsgKD0N8j6qR/sNSPFVREetOZOheOYerosOeifm+up+qxa0ln+lXFU455+o5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ganderson\\Documents\\Dev\\cesium\\cesium-dotNet\\cesium-dotNet.csproj",
+  "projectFilePath": "C:\\Users\\ganderson\\Documents\\Dev\\WLNCS\\cesium-dotNet\\cesium-dotNet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ganderson\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\3.1.6\\microsoft.aspnetcore.nodeservices.3.1.6.nupkg.sha512",
     "C:\\Users\\ganderson\\.nuget\\packages\\microsoft.aspnetcore.spaservices\\3.1.6\\microsoft.aspnetcore.spaservices.3.1.6.nupkg.sha512",

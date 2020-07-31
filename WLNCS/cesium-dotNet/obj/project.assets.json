@@ -564,11 +564,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ganderson\\Documents\\Dev\\cesium\\cesium-dotNet\\cesium-dotNet.csproj",
+      "projectUniqueName": "C:\\Users\\ganderson\\Documents\\Dev\\WLNCS\\cesium-dotNet\\cesium-dotNet.csproj",
       "projectName": "cesium-dotNet",
-      "projectPath": "C:\\Users\\ganderson\\Documents\\Dev\\cesium\\cesium-dotNet\\cesium-dotNet.csproj",
+      "projectPath": "C:\\Users\\ganderson\\Documents\\Dev\\WLNCS\\cesium-dotNet\\cesium-dotNet.csproj",
       "packagesPath": "C:\\Users\\ganderson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ganderson\\Documents\\Dev\\cesium\\cesium-dotNet\\obj\\",
+      "outputPath": "C:\\Users\\ganderson\\Documents\\Dev\\WLNCS\\cesium-dotNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
